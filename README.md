@@ -5,3 +5,4 @@ Here I have used HTML, CSS and JavaScript to design this webpage
   1. index.txt - contains HTML codes
   2. style.txt - contains CSS styles codes
   3. script.txt - contains JavaScripts of the page
+  4. folder(image) - contains the images used in the page design
